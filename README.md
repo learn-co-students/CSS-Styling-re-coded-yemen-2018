@@ -9,7 +9,7 @@ resources: 0
 
 1. Navigate to your local folder for the exceptional-realty folder you worked on previously. 
 2. Make sure you are on the master branch ♥ `git checkout master`
-3. To get the most up to date starting code used for this exercise create a new remote called upstream ♥ `git remote add upstream git@github.com:flatiron-school-ironboard/fe-exceptional-realty-fe-<insert course number here>.git`
+3. To get the most up to date starting code used for this exercise create a new remote called upstream ♥ `git remote add upstream git@github.com:flatiron-school-ironboard/fe-exceptional-realty-<insert your batch number here>.git` (example batch: fe-001 or ruby-010).
 4. Then pull down changes ♥ `git pull -f upstream master` ignoring any conflicts.
 Next, get all the tags ♥ `git fetch upstream --tags`
 Then in terminal type ♥ `git reset --hard step-2`  
