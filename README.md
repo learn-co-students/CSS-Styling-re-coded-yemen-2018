@@ -1,9 +1,4 @@
----
-language: css
-tags: css, style, syntax, selectors
-type: code along
-resources: 0
----
+
 
 ## Code Along Exercise 3 ~ 38min
 
