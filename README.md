@@ -1,6 +1,6 @@
 ## Overview
 
-In this code along exercise we will be adding style to our pages using external CSS. Instead of working in your previous exceptional-realty folder you will instead fork and clone this lab and follow along in that folder instead.
+In this code along exercise we will be adding style to our pages using external CSS.
 
 ## Steps
 
