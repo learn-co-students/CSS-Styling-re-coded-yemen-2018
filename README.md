@@ -1,4 +1,4 @@
-# Code Along Exercise 3
+# CSS Styling Code Along
 
 ## Objectives
 
@@ -24,4 +24,5 @@ In this code along exercise we will be adding style to our pages by linking an e
 7. Stage, commit, and push up your changes.
 8. Make a pull request.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-code-along-3' title='Overview'>Overview</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/CSS-Styling' title='CSS Styling'>CSS Styling</a> on Learn.co and start learning to code for free.</p>
+
