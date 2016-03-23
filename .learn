@@ -7,6 +7,4 @@ tags:
   - syntax
 type:
   - code along
-tests:
- - green_onion
 resources: 0

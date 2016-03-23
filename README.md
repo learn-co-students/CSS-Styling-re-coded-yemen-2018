@@ -19,10 +19,9 @@ In this code along exercise we will be adding style to our pages by linking an e
 
 <iframe width="100%" height="720" src="//www.youtube.com/embed/aA8k-hK8qzg?rel=0&amp;controls=1&amp;showinfo=1" frameborder="0" allowfullscreen></iframe></iframe>
 
-5. Please <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">install Firefox</a> if you haven't already as it is required for the screenshot tests to run. 
-6. type the `learn` command in Terminal to run local test builds.
-7. Stage, commit, and push up your changes.
-8. Make a pull request.
+5. type the `learn` command in Terminal to run local test builds.
+6. Stage, commit, and push up your changes.
+7. Make a pull request.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/CSS-Styling' title='CSS Styling'>CSS Styling</a> on Learn.co and start learning to code for free.</p>
 
