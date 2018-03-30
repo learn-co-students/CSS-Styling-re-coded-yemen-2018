@@ -22,7 +22,7 @@ Create a new branch for this lesson called `css-styling` by typing `git checkout
 
 Code along with the included video below. Some parts of the video, such as folder names, will be different than your own.
 
-<iframe width="100%" height="720" src="//www.youtube.com/embed/aA8k-hK8qzg?rel=0&amp;controls=1&amp;showinfo=1" frameborder="0" allowfullscreen></iframe></iframe>
+<iframe width="640" height="480" src="//www.youtube.com/embed/aA8k-hK8qzg?rel=0&amp;controls=1&amp;showinfo=1" frameborder="0" allowfullscreen></iframe></iframe>
 
 When you're finished, add, commit and push your work up. Then, checkout `master`, and merge it with the work you've done on the `css-styling` branch, and push up the `master` as well. The commands should look like the following:
 
