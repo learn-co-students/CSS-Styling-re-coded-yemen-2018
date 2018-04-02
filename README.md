@@ -12,12 +12,19 @@ In this code along exercise we will be adding style to our pages by linking an e
 
 ## Steps
 
+## Tasks for LearnIDE Environment Users
+
+1. Click the "OPEN IDE" button
+
+## Tasks for Local Environment Users
+
 1. Fork this repository.
-2. Clone your fork.
-3. cd into the folder for this lab.
-4. Code along with the included video below. While coding work in your cloned copy of this lab! The instructors foldername will be different than yours.
-5. After the video: stage, commit, and push up your changes.
-6. Then make a pull request.
+2. Clone your fork locally.
+3. `cd` into the local repo you just cloned.
+
+1. Code along with the included video below. While coding work in your cloned copy of this lab! The instructors foldername will be different than yours.
+2. After the video: stage, commit, and push up your changes.
+3. Then make a pull request.
 
 <iframe width="100%" height="720" src="//www.youtube.com/embed/aA8k-hK8qzg?rel=0&amp;controls=1&amp;showinfo=1" frameborder="0" allowfullscreen></iframe></iframe>
 
