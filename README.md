@@ -18,6 +18,20 @@ cd exceptional-realty
 
 ## Steps
 
+## Tasks for LearnIDE Environment Users
+
+1. Click the "OPEN IDE" button
+
+## Tasks for Local Environment Users
+
+1. Fork this repository.
+2. Clone your fork locally.
+3. `cd` into the local repo you just cloned.
+
+1. Code along with the included video below. While coding work in your cloned copy of this lab! The instructors foldername will be different than yours.
+2. After the video: stage, commit, and push up your changes.
+3. Then make a pull request.
+
 Create a new branch for this lesson called `css-styling` by typing `git checkout -b css-styling` from inside the project folder before continuing.
 
 Code along with the included video below. Some parts of the video, such as folder names, will be different than your own.
